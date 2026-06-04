@@ -1,0 +1,218 @@
+*{
+    margin:0;
+    padding:0;
+   box-sizing: border-box;
+}
+.navbar{
+    position: fixed;
+    top: 0;
+    right:0;
+    left: 0;
+    width: 830%;
+    height: 190px;
+    z-index: 100; 
+    background-color: #ffffff; 
+    border-bottom: 1px solid #e5e5e5;
+
+}
+.line{
+    display: inline-block;
+}
+ button{
+    background-color:white;
+    border:none;
+    font-size: 22px;
+    font-weight: 90px;
+    margin-top: 20px;
+    display: block;
+    margin-left: 50px;
+}
+.image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left:10px;
+    
+}
+.bute{
+    display: inline-block;
+    vertical-align: middle;
+}
+ img{
+    width: 100px;
+    height: 30px;
+    margin-top:29px;
+    margin-left: 25px;
+     
+}
+.bar{
+    display: inline-block;
+    margin-left:140px;
+     vertical-align: middle;
+    
+    
+}
+input{
+    margin-top: 29px;
+    width:550px;
+    height:39px;
+    border-radius: 40px 0px 0px 40px;
+    border: 1px solid#ccc;
+    padding: 0 16px;
+   font-size:16px;
+   vertical-align: middle;
+   margin-left: 50px;
+  
+
+}
+.searchic{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 29px;
+    height: 39px;
+    width: 64px;
+    border:1px solid #ccc;
+    border-left: none;
+    border-radius: 1px 20px 20px 1px;
+    text-align: center;
+  
+}
+.searchic img{
+    width : 25px;
+    height:23px;
+    margin-top: 7px;
+    margin-left: 2px;
+      
+    
+}
+.voice{
+    display: inline-block;
+    vertical-align: middle;
+    border:1px solid #ccc;
+    background-color: #f2f2f2; 
+    border-radius: 50%;
+     margin-left: 23px;
+    margin-top:25px;
+    width: 42px;
+    height: 43px;
+    text-align: center;
+}
+.voice img{
+   width : 35px;
+    height:28px;
+    margin-top: 7px;
+    margin-left: 2.3px;
+}
+.create{
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 29px; 
+    margin-left: 140px;
+    height: 39px;              
+    width: 100px;
+    background-color: #f2f2f2; 
+    border-radius: 29px;    
+    text-align: center;
+}
+.plus{
+    font-size: 36px;
+     font-weight: 550; 
+    vertical-align: middle;
+    margin-right: 6px;
+   
+    
+
+}
+.tex{
+     font-size: 14px;
+    font-weight: 520;          
+    font-family: Arial, sans-serif;
+    color: #0f0f0f;
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+.bell{
+    display: inline-block;
+    vertical-align: middle;
+}
+.bell img{
+    width: 40px;
+    height: 40px;
+}
+.login {
+    
+    border:1px #0f0f0f;
+    display: inline-block;
+    vertical-align: middle;
+}
+.login button{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    width: 1px;
+    margin-top: 18px;
+    margin-right: 12px;
+}
+.recom{
+    width: 1200px;             
+    overflow-x: auto;        
+    white-space: nowrap;    
+    padding: 10px 0;
+    margin-left: 270px;
+    margin-top: 20px;
+ 
+}
+.box{
+ display: inline-block;
+    vertical-align: top;
+    width: 120px;
+    height: 33px;            
+    border: 1px solid #ccc; 
+    border-radius: 10px;     
+    margin-left: 12px;
+    background-color: #f2f2f2;
+    scrollbar-width: none;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    font-size: 15px;
+    color:rgb(27, 27, 27)
+}
+
+.home1{
+    display: inline-block;
+    vertical-align: top;
+    width: 120px;
+    height: 33px;            
+    border: 1px solid #ccc; 
+    border-radius: 10px;     
+    margin-left: 12px;
+    background-color: #f2f2f2;
+    scrollbar-width: none;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    font-size: 15px;
+    color:rgb(27, 27, 27);
+    margin-top: 10px;
+}
+.box1
+{
+     display: inline-block;
+    vertical-align: top;
+    width: 120px;
+    height: 33px;            
+    border: 1px solid #ccc; 
+    border-radius: 10px;     
+    margin-left: 12px;
+    background-color: #f2f2f2;
+    scrollbar-width: none;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    font-size: 15px;
+    color:rgb(27, 27, 27)
+}

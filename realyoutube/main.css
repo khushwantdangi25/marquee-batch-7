@@ -1,0 +1,62 @@
+.sidescreen {
+    display: inline-block;
+    vertical-align: top;          
+    height: 500px;
+    background-color: bisque;
+    margin-top:1px ;
+    position: fixed;
+      width: 17%;     
+      top : 60px;
+      left:0;
+
+}
+
+.content {
+    display: inline-block;
+    vertical-align: top; 
+    width: 80%;             
+    height: 500px;
+    margin-left: 250px;  
+    margin-top: 180px;
+
+}
+
+.video{
+    display: inline-block;
+
+}
+.video img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video2 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video3 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video4 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video5 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video6 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
+.video7 img{
+    width:370px;
+    height: 230px;
+    border-radius: 14px;
+}
