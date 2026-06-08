@@ -12,11 +12,11 @@ main{
     background-color: rgb(255, 255, 255);
 }
 .card{
- border: 1px solid white;
+ border: 5px solid #d9d0a9;
  background-color: #134230;
  width: 500px;
  height: 750px;
- border-radius: 25px;
+ border-radius: 35px;
 }
 .heading h1{
     font-family:fantasy;
@@ -141,7 +141,7 @@ p{
     width:30%;
     background-color: #134230;
     height: 140px;
-    top:734px;
+    top:730px;
     text-align: center;
     font-size: small;
     padding: 20px;
