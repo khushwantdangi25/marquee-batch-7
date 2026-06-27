@@ -13,8 +13,8 @@
 .box:hover{
     transform: scale(1.5);
     transform: rotate(45deg);
-    background-color: rgb(16, 16, 235);
-    box-shadow: 14px 14px  10px rgb(98, 113, 247);
+    background-color: rgb(135, 135, 153);
+    box-shadow: 14px 14px  10px rgb(141, 148, 212);
     border-radius: 50%;
 }
 
